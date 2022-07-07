@@ -16,7 +16,7 @@
     "express": "^4.17.1",
     "jquery": "^3.4.1",
     "layui-src": "^2.5.5",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "mysql": "^2.18.1",
     "popper.js": "^1.16.1",
     "qrcodejs2": "0.0.2",
